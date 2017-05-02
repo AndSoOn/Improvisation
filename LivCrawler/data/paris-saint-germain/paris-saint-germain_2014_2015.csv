@@ -1,0 +1,60 @@
+,match_type,date,home,away,score,points
+0,Champions League 2014/2015,17/09/2014,A,AFC Ajax,1:1 (1:0),1
+1,Champions League 2014/2015,30/09/2014,H,FC Barcelona,3:2 (2:1),3
+2,Champions League 2014/2015,21/10/2014,A,APOEL Nikosia,1:0 (0:0),3
+3,Champions League 2014/2015,05/11/2014,H,APOEL Nikosia,1:0 (1:0),3
+4,Champions League 2014/2015,25/11/2014,H,AFC Ajax,3:1 (1:0),3
+5,Champions League 2014/2015,10/12/2014,A,FC Barcelona,1:3 (1:2),0
+6,Champions League 2014/2015,17/02/2015,H,Chelsea FC,1:1 (0:1),1
+7,Champions League 2014/2015,11/03/2015,A,Chelsea FC,"2:2 (0:0, 1:1) aet",1
+8,Champions League 2014/2015,15/04/2015,H,FC Barcelona,1:3 (0:1),0
+9,Champions League 2014/2015,21/04/2015,A,FC Barcelona,0:2 (0:2),0
+10,Ligue 1 2014/2015,08/08/2014,A,Stade Reims,2:2 (1:2),1
+11,Ligue 1 2014/2015,16/08/2014,H,SC Bastia,2:0 (1:0),3
+12,Ligue 1 2014/2015,22/08/2014,A,Évian Thonon Gaillard,0:0 (0:0),1
+13,Ligue 1 2014/2015,31/08/2014,H,AS Saint-Étienne,5:0 (2:0),3
+14,Ligue 1 2014/2015,13/09/2014,A,Stade Rennes,1:1 (1:0),1
+15,Ligue 1 2014/2015,21/09/2014,H,Olympique Lyon,1:1 (1:0),1
+16,Ligue 1 2014/2015,24/09/2014,A,SM Caen,2:0 (1:0),3
+17,Ligue 1 2014/2015,27/09/2014,A,Toulouse FC,1:1 (1:1),1
+18,Ligue 1 2014/2015,05/10/2014,H,AS Monaco,1:1 (0:0),1
+19,Ligue 1 2014/2015,17/10/2014,A,RC Lens,3:1 (2:1),3
+20,Ligue 1 2014/2015,25/10/2014,H,Girondins Bordeaux,3:0 (1:0),3
+21,Ligue 1 2014/2015,01/11/2014,A,FC Lorient,2:1 (0:1),3
+22,Ligue 1 2014/2015,09/11/2014,H,Olympique Marseille,2:0 (1:0),3
+23,Ligue 1 2014/2015,21/11/2014,A,FC Metz,3:2 (2:0),3
+24,Ligue 1 2014/2015,29/11/2014,H,OGC Nice,1:0 (1:0),3
+25,Ligue 1 2014/2015,03/12/2014,A,Lille OSC,1:1 (1:1),1
+26,Ligue 1 2014/2015,06/12/2014,H,FC Nantes,2:1 (1:1),3
+27,Ligue 1 2014/2015,14/12/2014,A,EA Guingamp,0:1 (0:1),0
+28,Ligue 1 2014/2015,20/12/2014,H,Montpellier HSC,0:0 (0:0),1
+29,Ligue 1 2014/2015,10/01/2015,A,SC Bastia,2:4 (2:2),0
+30,Ligue 1 2014/2015,18/01/2015,H,Évian Thonon Gaillard,4:2 (2:1),3
+31,Ligue 1 2014/2015,25/01/2015,A,AS Saint-Étienne,1:0 (0:0),3
+32,Ligue 1 2014/2015,30/01/2015,H,Stade Rennes,1:0 (1:0),3
+33,Ligue 1 2014/2015,08/02/2015,A,Olympique Lyon,1:1 (0:1),1
+34,Ligue 1 2014/2015,14/02/2015,H,SM Caen,2:2 (2:0),1
+35,Ligue 1 2014/2015,21/02/2015,H,Toulouse FC,3:1 (1:0),3
+36,Ligue 1 2014/2015,01/03/2015,A,AS Monaco,0:0 (0:0),1
+37,Ligue 1 2014/2015,07/03/2015,H,RC Lens,4:1 (1:0),3
+38,Ligue 1 2014/2015,15/03/2015,A,Girondins Bordeaux,2:3 (0:1),0
+39,Ligue 1 2014/2015,20/03/2015,H,FC Lorient,3:1 (1:0),3
+40,Ligue 1 2014/2015,05/04/2015,A,Olympique Marseille,3:2 (1:2),3
+41,Ligue 1 2014/2015,18/04/2015,A,OGC Nice,3:1 (1:1),3
+42,Ligue 1 2014/2015,25/04/2015,H,Lille OSC,6:1 (4:0),3
+43,Ligue 1 2014/2015,28/04/2015,H,FC Metz,3:1 (2:0),3
+44,Ligue 1 2014/2015,03/05/2015,A,FC Nantes,2:0 (2:0),3
+45,Ligue 1 2014/2015,08/05/2015,H,EA Guingamp,6:0 (2:0),3
+46,Ligue 1 2014/2015,16/05/2015,A,Montpellier HSC,2:1 (2:1),3
+47,Ligue 1 2014/2015,23/05/2015,H,Stade Reims,3:2 (2:0),3
+48,Coupe de France 2014/2015,05/01/2015,A,Montpellier HSC,3:0 (0:0),3
+49,Coupe de France 2014/2015,21/01/2015,H,Girondins Bordeaux,2:1 (2:0),3
+50,Coupe de France 2014/2015,11/02/2015,H,FC Nantes,2:0 (2:0),3
+51,Coupe de France 2014/2015,04/03/2015,H,AS Monaco,2:0 (1:0),3
+52,Coupe de France 2014/2015,08/04/2015,H,AS Saint-Étienne,4:1 (1:1),3
+53,Coupe de France 2014/2015,30/05/2015,N,AJ Auxerre,1:0 (0:0),3
+54,Coupe de la Ligue 2014/2015,17/12/2014,A,AC Ajaccio,3:1 (0:1),3
+55,Coupe de la Ligue 2014/2015,13/01/2015,A,AS Saint-Étienne,1:0 (0:0),3
+56,Coupe de la Ligue 2014/2015,03/02/2015,A,Lille OSC,1:0 (1:0),3
+57,Coupe de la Ligue 2014/2015,11/04/2015,N,SC Bastia,4:0 (2:0),3
+58,Trophée des Champions 2014,02/08/2014,H,EA Guingamp,2:0 (2:0),3

@@ -1,0 +1,48 @@
+,match_type,date,home,away,score,points
+0,Champions League 2002/2003,17/09/2002,A,AFC Ajax,1:2 (0:2),0
+1,Champions League 2002/2003,25/09/2002,H,Rosenborg BK,5:0 (4:0),3
+2,Champions League 2002/2003,02/10/2002,A,Inter,2:1 (1:0),3
+3,Champions League 2002/2003,22/10/2002,H,Inter,3:3 (2:1),1
+4,Champions League 2002/2003,30/10/2002,H,AFC Ajax,0:2 (0:1),0
+5,Champions League 2002/2003,12/11/2002,A,Rosenborg BK,1:1 (0:0),1
+6,Europa League 2002/2003,28/11/2002,A,Denizlispor,0:0 (0:0),1
+7,Europa League 2002/2003,12/12/2002,H,Denizlispor,0:1 (0:1),0
+8,Ligue 1 2002/2003,02/08/2002,A,EA Guingamp,3:3 (2:1),1
+9,Ligue 1 2002/2003,10/08/2002,H,CS Sedan,6:1 (2:1),3
+10,Ligue 1 2002/2003,16/08/2002,A,Olympique Marseille,1:1 (1:1),1
+11,Ligue 1 2002/2003,24/08/2002,H,SC Bastia,4:1 (2:1),3
+12,Ligue 1 2002/2003,31/08/2002,A,FC Sochaux,1:2 (0:0),0
+13,Ligue 1 2002/2003,10/09/2002,H,RC Lens,1:0 (1:0),3
+14,Ligue 1 2002/2003,14/09/2002,A,FC Nantes,0:1 (0:1),0
+15,Ligue 1 2002/2003,21/09/2002,H,AS Monaco,1:3 (0:1),0
+16,Ligue 1 2002/2003,28/09/2002,A,ESTAC Troyes,1:1 (0:0),1
+17,Ligue 1 2002/2003,05/10/2002,A,Stade Rennes,1:0 (0:0),3
+18,Ligue 1 2002/2003,19/10/2002,H,AJ Auxerre,3:0 (1:0),3
+19,Ligue 1 2002/2003,26/10/2002,A,AC Ajaccio,1:0 (1:0),3
+20,Ligue 1 2002/2003,02/11/2002,H,OGC Nice,2:2 (0:1),1
+21,Ligue 1 2002/2003,07/11/2002,A,Le Havre AC,2:1 (1:0),3
+22,Ligue 1 2002/2003,16/11/2002,H,Girondins Bordeaux,4:2 (1:2),3
+23,Ligue 1 2002/2003,23/11/2002,A,Lille OSC,1:2 (0:0),0
+24,Ligue 1 2002/2003,01/12/2002,H,RC Strasbourg,2:1 (1:1),3
+25,Ligue 1 2002/2003,04/12/2002,A,Paris Saint-Germain,0:2 (0:1),0
+26,Ligue 1 2002/2003,15/12/2002,H,Montpellier HSC,1:1 (0:0),1
+27,Ligue 1 2002/2003,20/12/2002,A,CS Sedan,1:1 (0:0),1
+28,Ligue 1 2002/2003,10/01/2003,H,Olympique Marseille,1:0 (1:0),3
+29,Ligue 1 2002/2003,15/01/2003,A,SC Bastia,0:2 (0:0),0
+30,Ligue 1 2002/2003,22/01/2003,H,FC Sochaux,4:1 (3:0),3
+31,Ligue 1 2002/2003,29/01/2003,A,RC Lens,2:2 (2:2),1
+32,Ligue 1 2002/2003,01/02/2003,H,FC Nantes,0:0 (0:0),1
+33,Ligue 1 2002/2003,04/02/2003,A,AS Monaco,0:2 (0:1),0
+34,Ligue 1 2002/2003,08/02/2003,H,ESTAC Troyes,0:0 (0:0),1
+35,Ligue 1 2002/2003,22/02/2003,H,Stade Rennes,4:1 (2:1),3
+36,Ligue 1 2002/2003,02/03/2003,A,AJ Auxerre,2:1 (2:0),3
+37,Ligue 1 2002/2003,08/03/2003,H,AC Ajaccio,3:1 (2:1),3
+38,Ligue 1 2002/2003,23/03/2003,A,OGC Nice,1:0 (0:0),3
+39,Ligue 1 2002/2003,05/04/2003,H,Le Havre AC,2:1 (1:1),3
+40,Ligue 1 2002/2003,11/04/2003,A,Girondins Bordeaux,1:0 (0:0),3
+41,Ligue 1 2002/2003,19/04/2003,H,Lille OSC,0:0 (0:0),1
+42,Ligue 1 2002/2003,03/05/2003,A,RC Strasbourg,4:0 (1:0),3
+43,Ligue 1 2002/2003,11/05/2003,H,Paris Saint-Germain,1:0 (1:0),3
+44,Ligue 1 2002/2003,20/05/2003,A,Montpellier HSC,1:1 (1:1),1
+45,Ligue 1 2002/2003,24/05/2003,H,EA Guingamp,1:4 (0:2),0
+46,Coupe de France 2002/2003,03/01/2003,A,Libourne St.-Seurin,0:1,0

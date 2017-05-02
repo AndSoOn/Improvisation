@@ -1,0 +1,64 @@
+,match_type,date,home,away,score,points
+0,Europa League 2006/2007,14/09/2006,A,Atromitos,2:1 (2:0),3
+1,Europa League 2006/2007,28/09/2006,H,Atromitos,4:0 (3:0),3
+2,Europa League 2006/2007,19/10/2006,A,Slovan Liberec,0:0 (0:0),1
+3,Europa League 2006/2007,23/11/2006,H,Sporting Braga,2:0 (1:0),3
+4,Europa League 2006/2007,29/11/2006,A,Grasshoppers Zürich,4:0 (1:0),3
+5,Europa League 2006/2007,14/12/2006,H,AZ Alkmaar,1:2 (0:0),0
+6,Europa League 2006/2007,15/02/2007,A,Steaua Bucureşti,2:0 (1:0),3
+7,Europa League 2006/2007,22/02/2007,H,Steaua Bucureşti,1:0 (1:0),3
+8,Europa League 2006/2007,08/03/2007,H,Shakhtar Donetsk,2:2 (1:1),1
+9,Europa League 2006/2007,15/03/2007,A,Shakhtar Donetsk,"3:2 (0:0, 2:2) aet",3
+10,Europa League 2006/2007,05/04/2007,H,Tottenham Hotspur,2:1 (2:1),3
+11,Europa League 2006/2007,12/04/2007,A,Tottenham Hotspur,2:2 (2:0),1
+12,Europa League 2006/2007,26/04/2007,A,CA Osasuna,0:1 (0:0),0
+13,Europa League 2006/2007,03/05/2007,H,CA Osasuna,2:0 (1:0),3
+14,Europa League 2006/2007,16/05/2007,N,Espanyol Barcelona,"3:1 (1:1, 1:1, 2:2) pso",3
+15,UEFA-Supercup 2006,25/08/2006,N,FC Barcelona,3:0 (2:0),3
+16,Primera División 2006/2007,29/08/2006,H,Levante UD,4:0 (2:0),3
+17,Primera División 2006/2007,10/09/2006,A,Real Sociedad,3:1 (1:0),3
+18,Primera División 2006/2007,17/09/2006,H,Real Betis,3:2 (1:1),3
+19,Primera División 2006/2007,24/09/2006,A,Atlético Madrid,1:2 (1:0),0
+20,Primera División 2006/2007,01/10/2006,H,Getafe CF,1:0 (1:0),3
+21,Primera División 2006/2007,15/10/2006,A,FC Barcelona,1:3 (1:2),0
+22,Primera División 2006/2007,22/10/2006,H,Gimnàstic,2:1 (2:0),3
+23,Primera División 2006/2007,29/10/2006,A,Celta Vigo,2:1 (1:1),3
+24,Primera División 2006/2007,05/11/2006,H,CA Osasuna,2:0 (0:0),3
+25,Primera División 2006/2007,12/11/2006,A,Racing Santander,0:0 (0:0),1
+26,Primera División 2006/2007,18/11/2006,H,Valencia CF,3:0 (1:0),3
+27,Primera División 2006/2007,26/11/2006,A,Athletic Bilbao,3:1 (2:0),3
+28,Primera División 2006/2007,03/12/2006,A,Espanyol Barcelona,1:2 (1:0),0
+29,Primera División 2006/2007,09/12/2006,H,Real Madrid,2:1 (1:1),3
+30,Primera División 2006/2007,17/12/2006,A,Recreativo Huelva,3:1 (2:1),3
+31,Primera División 2006/2007,20/12/2006,H,Deportivo La Coruña,4:0 (1:0),3
+32,Primera División 2006/2007,06/01/2007,A,Real Zaragoza,1:2 (0:1),0
+33,Primera División 2006/2007,14/01/2007,H,RCD Mallorca,1:2 (1:0),0
+34,Primera División 2006/2007,20/01/2007,A,Villarreal CF,0:0 (0:0),1
+35,Primera División 2006/2007,28/01/2007,A,Levante UD,4:2 (1:0),3
+36,Primera División 2006/2007,04/02/2007,H,Real Sociedad,0:0 (0:0),1
+37,Primera División 2006/2007,10/02/2007,A,Real Betis,0:0 (0:0),1
+38,Primera División 2006/2007,18/02/2007,H,Atlético Madrid,3:1 (2:0),3
+39,Primera División 2006/2007,25/02/2007,A,Getafe CF,0:0 (0:0),1
+40,Primera División 2006/2007,03/03/2007,H,FC Barcelona,2:1 (1:1),3
+41,Primera División 2006/2007,11/03/2007,A,Gimnàstic,0:1 (0:0),0
+42,Primera División 2006/2007,18/03/2007,H,Celta Vigo,2:0 (0:0),3
+43,Primera División 2006/2007,01/04/2007,A,CA Osasuna,0:0 (0:0),1
+44,Primera División 2006/2007,08/04/2007,H,Racing Santander,0:0 (0:0),1
+45,Primera División 2006/2007,15/04/2007,A,Valencia CF,0:2 (0:1),0
+46,Primera División 2006/2007,22/04/2007,H,Athletic Bilbao,4:1 (0:0),3
+47,Primera División 2006/2007,29/04/2007,H,Espanyol Barcelona,3:1 (0:0),3
+48,Primera División 2006/2007,06/05/2007,A,Real Madrid,2:3 (1:0),0
+49,Primera División 2006/2007,12/05/2007,H,Recreativo Huelva,2:1 (1:0),3
+50,Primera División 2006/2007,20/05/2007,A,Deportivo La Coruña,2:1 (0:0),3
+51,Primera División 2006/2007,27/05/2007,H,Real Zaragoza,3:1 (1:0),3
+52,Primera División 2006/2007,09/06/2007,A,RCD Mallorca,0:0 (0:0),1
+53,Primera División 2006/2007,17/06/2007,H,Villarreal CF,0:1 (0:0),0
+54,Copa del Rey 2006/2007,25/10/2006,A,Gimnástica Segoviana,1:0 (1:0),3
+55,Copa del Rey 2006/2007,08/11/2006,H,Gimnástica Segoviana,3:0 (2:0),3
+56,Copa del Rey 2006/2007,10/01/2007,A,Rayo Vallecano,0:0 (0:0),1
+57,Copa del Rey 2006/2007,17/01/2007,H,Rayo Vallecano,3:1 (1:1),3
+58,Copa del Rey 2006/2007,01/02/2007,H,Real Betis,0:0 (0:0),1
+59,Copa del Rey 2006/2007,20/03/2007,N,Real Betis,1:0 (0:0),3
+60,Copa del Rey 2006/2007,19/04/2007,A,Deportivo La Coruña,3:0 (2:0),3
+61,Copa del Rey 2006/2007,09/05/2007,H,Deportivo La Coruña,2:0 (2:0),3
+62,Copa del Rey 2006/2007,23/06/2007,N,Getafe CF,1:0 (1:0),3
