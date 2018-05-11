@@ -1,7 +1,7 @@
 ,match_type,date,home,away,score,points
-0,UI-Cup 1995/1996,30/06/1995,A,Rudar Velenje,2:1,3
-1,UI-Cup 1995/1996,15/07/1995,H,Östers IF,1:2,0
-2,UI-Cup 1995/1996,22/07/1995,A,1. FC Köln,0:8,0
+0,UI-Cup 1995/1996,30/06/1995,A,Rudar Velenje,2:1 (1:1),3
+1,UI-Cup 1995/1996,15/07/1995,H,Östers IF,1:2 (1:1),0
+2,UI-Cup 1995/1996,22/07/1995,A,1. FC Köln,0:8 (0:4),0
 3,Premier League 1995/1996,19/08/1995,A,Manchester City,1:1 (1:0),1
 4,Premier League 1995/1996,23/08/1995,H,Aston Villa,0:1 (0:0),0
 5,Premier League 1995/1996,26/08/1995,H,Liverpool FC,1:3 (0:2),0
@@ -45,5 +45,5 @@
 43,FA Cup 1995/1996,26/01/1996,H,Wolverhampton Wanderers,1:1,1
 44,FA Cup 1995/1996,06/02/1996,A,Wolverhampton Wanderers,2:0,3
 45,FA Cup 1995/1996,27/02/1996,A,Nottingham Forest,2:2,1
-46,FA Cup 1995/1996,08/03/1996,H,Nottingham Forest,1:3 pso,0
+46,FA Cup 1995/1996,08/03/1996,H,Nottingham Forest,"1:3 (1:1, 1:1, 1:1) pso",0
 47,League Cup 1995/1996,24/10/1995,A,Coventry City,2:3,0

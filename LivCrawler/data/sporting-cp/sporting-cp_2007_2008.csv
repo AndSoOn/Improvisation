@@ -1,0 +1,57 @@
+,match_type,date,home,away,score,points
+0,Champions League 2007/2008,19/09/2007,H,Manchester United,0:1 (0:0),0
+1,Champions League 2007/2008,02/10/2007,A,Dinamo Kiev,2:1 (2:1),3
+2,Champions League 2007/2008,23/10/2007,A,AS Roma,1:2 (1:1),0
+3,Champions League 2007/2008,07/11/2007,H,AS Roma,2:2 (1:1),1
+4,Champions League 2007/2008,27/11/2007,A,Manchester United,1:2 (1:0),0
+5,Champions League 2007/2008,12/12/2007,H,Dinamo Kiev,3:0 (1:0),3
+6,Europa League 2007/2008,13/02/2008,H,FC Basel,2:0 (1:0),3
+7,Europa League 2007/2008,21/02/2008,A,FC Basel,3:0 (2:0),3
+8,Europa League 2007/2008,06/03/2008,A,Bolton Wanderers,1:1 (0:1),1
+9,Europa League 2007/2008,13/03/2008,H,Bolton Wanderers,1:0 (0:0),3
+10,Europa League 2007/2008,03/04/2008,A,Rangers FC,0:0 (0:0),1
+11,Europa League 2007/2008,10/04/2008,H,Rangers FC,0:2 (0:0),0
+12,Primeira Liga 2007/2008,17/08/2007,H,Académica de Coimbra,4:1 (2:0),3
+13,Primeira Liga 2007/2008,26/08/2007,A,FC Porto,0:1 (0:0),0
+14,Primeira Liga 2007/2008,02/09/2007,H,Os Belenenses,1:0 (0:0),3
+15,Primeira Liga 2007/2008,16/09/2007,A,Estrela Amadora,2:0 (2:0),3
+16,Primeira Liga 2007/2008,23/09/2007,H,Vitória Setúbal,2:2 (0:1),1
+17,Primeira Liga 2007/2008,29/09/2007,A,SL Benfica,0:0 (0:0),1
+18,Primeira Liga 2007/2008,06/10/2007,H,Vitória Guimarães,3:0 (0:0),3
+19,Primeira Liga 2007/2008,27/10/2007,A,CD Nacional,0:0 (0:0),1
+20,Primeira Liga 2007/2008,04/11/2007,H,Naval 1° de Maio,4:1 (1:1),3
+21,Primeira Liga 2007/2008,11/11/2007,A,Sporting Braga,0:3 (0:1),0
+22,Primeira Liga 2007/2008,24/11/2007,A,Leixões SC,1:1 (0:1),1
+23,Primeira Liga 2007/2008,02/12/2007,H,União Leiria,1:1 (0:0),1
+24,Primeira Liga 2007/2008,16/12/2007,A,CS Marítimo,2:1 (0:0),3
+25,Primeira Liga 2007/2008,22/12/2007,H,Paços de Ferreira,2:1 (1:1),3
+26,Primeira Liga 2007/2008,05/01/2008,A,Boavista,0:2 (0:1),0
+27,Primeira Liga 2007/2008,13/01/2008,A,Académica de Coimbra,1:1 (0:0),1
+28,Primeira Liga 2007/2008,27/01/2008,H,FC Porto,2:0 (2:0),3
+29,Primeira Liga 2007/2008,03/02/2008,A,Os Belenenses,0:1 (0:1),0
+30,Primeira Liga 2007/2008,17/02/2008,H,Estrela Amadora,2:0 (1:0),3
+31,Primeira Liga 2007/2008,24/02/2008,A,Vitória Setúbal,0:1 (0:1),0
+32,Primeira Liga 2007/2008,02/03/2008,H,SL Benfica,1:1 (1:1),1
+33,Primeira Liga 2007/2008,09/03/2008,A,Vitória Guimarães,0:2 (0:1),0
+34,Primeira Liga 2007/2008,17/03/2008,H,CD Nacional,4:1 (0:0),3
+35,Primeira Liga 2007/2008,30/03/2008,A,Naval 1° de Maio,4:1 (3:1),3
+36,Primeira Liga 2007/2008,06/04/2008,H,Sporting Braga,2:0 (2:0),3
+37,Primeira Liga 2007/2008,13/04/2008,H,Leixões SC,2:0 (2:0),3
+38,Primeira Liga 2007/2008,20/04/2008,A,União Leiria,1:4 (0:2),0
+39,Primeira Liga 2007/2008,27/04/2008,H,CS Marítimo,2:1 (1:1),3
+40,Primeira Liga 2007/2008,04/05/2008,A,Paços de Ferreira,1:0 (1:0),3
+41,Primeira Liga 2007/2008,11/05/2008,H,Boavista,2:1 (2:1),3
+42,Taça 2007/2008,08/12/2007,H,Louletano,4:0,3
+43,Taça 2007/2008,19/01/2008,H,GD Lagoa,4:0,3
+44,Taça 2007/2008,09/02/2008,H,CS Marítimo,2:1,3
+45,Taça 2007/2008,27/02/2008,H,Estrela Amadora,1:0,3
+46,Taça 2007/2008,16/04/2008,H,SL Benfica,5:3 (0:2),3
+47,Taça 2007/2008,18/05/2008,N,FC Porto,"2:0 (0:0, 0:0) aet",3
+48,Taça da Liga 2007/2008,26/09/2007,A,Vitória Guimarães,7:6 pso,3
+49,Taça da Liga 2007/2008,20/10/2007,H,CD Fátima,1:2,0
+50,Taça da Liga 2007/2008,31/10/2007,A,CD Fátima,3:2,3
+51,Taça da Liga 2007/2008,09/01/2008,A,Vitória Setúbal,0:1,0
+52,Taça da Liga 2007/2008,23/01/2008,H,SC Beira-Mar,3:0,3
+53,Taça da Liga 2007/2008,30/01/2008,H,FC Penafiel,3:1,3
+54,Taça da Liga 2007/2008,22/03/2008,H,Vitória Setúbal,"2:3 (0:0, 0:0, 0:0) pso",0
+55,Supertaça 2007,11/08/2007,N,FC Porto,1:0 (0:0),3
