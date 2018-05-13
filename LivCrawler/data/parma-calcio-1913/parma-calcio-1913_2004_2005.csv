@@ -1,0 +1,57 @@
+,match_type,date,home,away,score,points
+0,Europa League 2004/2005,16/09/2004,H,NK Maribor,3:2 (2:1),3
+1,Europa League 2004/2005,30/09/2004,A,NK Maribor,0:0 (0:0),1
+2,Europa League 2004/2005,21/10/2004,A,Athletic Bilbao,0:2 (0:1),0
+3,Europa League 2004/2005,04/11/2004,H,Steaua Bucureşti,1:0 (0:0),3
+4,Europa League 2004/2005,25/11/2004,A,Standard Liège,1:2 (1:0),0
+5,Europa League 2004/2005,16/12/2004,H,Beşiktaş,3:2 (2:1),3
+6,Europa League 2004/2005,16/02/2005,H,VfB Stuttgart,0:0 (0:0),1
+7,Europa League 2004/2005,24/02/2005,A,VfB Stuttgart,"2:0 (0:0, 0:0) aet",3
+8,Europa League 2004/2005,10/03/2005,A,Sevilla FC,0:0 (0:0),1
+9,Europa League 2004/2005,17/03/2005,H,Sevilla FC,1:0 (1:0),3
+10,Europa League 2004/2005,07/04/2005,A,Austria Wien,1:1 (1:0),1
+11,Europa League 2004/2005,14/04/2005,H,Austria Wien,0:0 (0:0),1
+12,Europa League 2004/2005,28/04/2005,H,CSKA Moskva,0:0 (0:0),1
+13,Europa League 2004/2005,05/05/2005,A,CSKA Moskva,0:3 (0:1),0
+14,Serie A 2004/2005,12/09/2004,H,FC Messina,0:0 (0:0),1
+15,Serie A 2004/2005,19/09/2004,A,Udinese Calcio,0:4 (0:1),0
+16,Serie A 2004/2005,22/09/2004,H,Bologna FC,1:2 (0:2),0
+17,Serie A 2004/2005,26/09/2004,A,Inter,2:2 (1:0),1
+18,Serie A 2004/2005,03/10/2004,H,ACF Fiorentina,0:0 (0:0),1
+19,Serie A 2004/2005,17/10/2004,A,Brescia Calcio,1:3 (1:2),0
+20,Serie A 2004/2005,24/10/2004,H,Lazio Roma,3:1 (2:1),3
+21,Serie A 2004/2005,27/10/2004,A,Cagliari Calcio,1:2 (0:1),0
+22,Serie A 2004/2005,31/10/2004,H,Atalanta,2:2 (1:1),1
+23,Serie A 2004/2005,07/11/2004,A,US Palermo,1:1 (1:0),1
+24,Serie A 2004/2005,10/11/2004,H,Reggina Calcio,1:0 (0:0),3
+25,Serie A 2004/2005,14/11/2004,H,Chievo Verona,2:2 (0:0),1
+26,Serie A 2004/2005,28/11/2004,A,Sampdoria,0:1 (0:0),0
+27,Serie A 2004/2005,04/12/2004,H,AC Milan,1:2 (0:0),0
+28,Serie A 2004/2005,12/12/2004,A,AS Livorno,0:2 (0:1),0
+29,Serie A 2004/2005,19/12/2004,A,AS Roma,1:5 (1:2),0
+30,Serie A 2004/2005,06/01/2005,H,Juventus,1:1 (0:0),1
+31,Serie A 2004/2005,09/01/2005,A,AC Siena,1:0 (1:0),3
+32,Serie A 2004/2005,16/01/2005,H,US Lecce,2:1 (0:0),3
+33,Serie A 2004/2005,23/01/2005,A,FC Messina,0:1 (0:0),0
+34,Serie A 2004/2005,29/01/2005,H,Udinese Calcio,1:0 (1:0),3
+35,Serie A 2004/2005,03/02/2005,A,Bologna FC,1:3 (0:0),0
+36,Serie A 2004/2005,06/02/2005,H,Inter,2:2 (1:0),1
+37,Serie A 2004/2005,13/02/2005,A,ACF Fiorentina,1:2 (0:0),0
+38,Serie A 2004/2005,20/02/2005,H,Brescia Calcio,2:1 (1:0),3
+39,Serie A 2004/2005,27/02/2005,A,Lazio Roma,0:2 (0:1),0
+40,Serie A 2004/2005,06/03/2005,H,Cagliari Calcio,3:2 (2:1),3
+41,Serie A 2004/2005,13/03/2005,A,Atalanta,0:1 (0:0),0
+42,Serie A 2004/2005,20/03/2005,H,US Palermo,3:3 (1:2),1
+43,Serie A 2004/2005,10/04/2005,A,Reggina Calcio,3:1 (1:0),3
+44,Serie A 2004/2005,17/04/2005,A,Chievo Verona,0:2 (0:0),0
+45,Serie A 2004/2005,20/04/2005,H,Sampdoria,1:1 (1:1),1
+46,Serie A 2004/2005,23/04/2005,A,AC Milan,0:3 (0:1),0
+47,Serie A 2004/2005,01/05/2005,H,AS Livorno,6:4 (3:2),3
+48,Serie A 2004/2005,08/05/2005,H,AS Roma,2:1 (0:1),3
+49,Serie A 2004/2005,15/05/2005,A,Juventus,0:2 (0:2),0
+50,Serie A 2004/2005,22/05/2005,H,AC Siena,0:0 (0:0),1
+51,Serie A 2004/2005,29/05/2005,A,US Lecce,3:3 (2:2),1
+52,Serie A 2004/2005 Relegation,14/06/2005,H,Bologna FC,0:1,0
+53,Serie A 2004/2005 Relegation,18/06/2005,A,Bologna FC,2:0,3
+54,Coppa Italia 2004/2005,20/11/2004,A,ACF Fiorentina,0:2,0
+55,Coppa Italia 2004/2005,12/01/2005,H,ACF Fiorentina,0:3,0

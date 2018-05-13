@@ -1,0 +1,64 @@
+,match_type,date,home,away,score,points
+0,Friendlies Clubs 2017,22/07/2017,A,Kashima Antlers,0:2 (0:0),0
+1,Friendlies Clubs 2017,29/07/2017,N,RB Leipzig,1:0 (1:0),3
+2,Friendlies Clubs 2017,30/07/2017,A,Arsenal FC,2:1 (0:0),3
+3,Friendlies Clubs 2017,06/08/2017,A,Everton FC,2:2 (0:1),1
+4,Friendlies Clubs 2017,10/08/2017,H,AS Roma,2:1 (0:0),3
+5,Champions League 2017/2018,13/09/2017,A,Liverpool FC,2:2 (1:2),1
+6,Champions League 2017/2018,26/09/2017,H,NK Maribor,3:0 (2:0),3
+7,Champions League 2017/2018,17/10/2017,A,Spartak Moskva,1:5 (1:1),0
+8,Champions League 2017/2018,01/11/2017,H,Spartak Moskva,2:1 (1:0),3
+9,Champions League 2017/2018,21/11/2017,H,Liverpool FC,3:3 (0:3),1
+10,Champions League 2017/2018,06/12/2017,A,NK Maribor,1:1 (0:1),1
+11,Champions League 2017/2018,21/02/2018,H,Manchester United,0:0 (0:0),1
+12,Champions League 2017/2018,13/03/2018,A,Manchester United,2:1 (0:0),3
+13,Champions League 2017/2018,03/04/2018,H,Bayern München,1:2 (1:1),0
+14,Champions League 2017/2018,11/04/2018,A,Bayern München,0:0 (0:0),1
+15,Champions League Qual. 2017/2018,16/08/2017,A,İstanbul Başakşehir F.K.,2:1 (1:0),3
+16,Champions League Qual. 2017/2018,22/08/2017,H,İstanbul Başakşehir F.K.,2:2 (0:1),1
+17,Primera División 2017/2018,19/08/2017,H,Espanyol Barcelona,1:1 (1:1),1
+18,Primera División 2017/2018,27/08/2017,A,Getafe CF,1:0 (0:0),3
+19,Primera División 2017/2018,09/09/2017,H,SD Eibar,3:0 (0:0),3
+20,Primera División 2017/2018,17/09/2017,A,Girona FC,1:0 (0:0),3
+21,Primera División 2017/2018,20/09/2017,H,UD Las Palmas,1:0 (0:0),3
+22,Primera División 2017/2018,23/09/2017,A,Atlético Madrid,0:2 (0:0),0
+23,Primera División 2017/2018,30/09/2017,H,Málaga CF,2:0 (0:0),3
+24,Primera División 2017/2018,14/10/2017,A,Athletic Bilbao,0:1 (0:1),0
+25,Primera División 2017/2018,21/10/2017,A,Valencia CF,0:4 (0:1),0
+26,Primera División 2017/2018,28/10/2017,H,CD Leganés,2:1 (1:0),3
+27,Primera División 2017/2018,04/11/2017,A,FC Barcelona,1:2 (0:1),0
+28,Primera División 2017/2018,18/11/2017,H,Celta Vigo,2:1 (1:1),3
+29,Primera División 2017/2018,26/11/2017,A,Villarreal CF,3:2 (0:1),3
+30,Primera División 2017/2018,02/12/2017,H,Deportivo La Coruña,2:0 (1:0),3
+31,Primera División 2017/2018,09/12/2017,A,Real Madrid,0:5 (0:5),0
+32,Primera División 2017/2018,15/12/2017,H,Levante UD,0:0 (0:0),1
+33,Primera División 2017/2018,20/12/2017,A,Real Sociedad,1:3 (1:1),0
+34,Primera División 2017/2018,06/01/2018,H,Real Betis,3:5 (2:2),0
+35,Primera División 2017/2018,14/01/2018,A,CD Alavés,0:1 (0:0),0
+36,Primera División 2017/2018,20/01/2018,A,Espanyol Barcelona,3:0 (2:0),3
+37,Primera División 2017/2018,28/01/2018,H,Getafe CF,1:1 (0:0),1
+38,Primera División 2017/2018,03/02/2018,A,SD Eibar,1:5 (1:3),0
+39,Primera División 2017/2018,11/02/2018,H,Girona FC,1:0 (0:0),3
+40,Primera División 2017/2018,17/02/2018,A,UD Las Palmas,2:1 (1:0),3
+41,Primera División 2017/2018,25/02/2018,H,Atlético Madrid,2:5 (0:2),0
+42,Primera División 2017/2018,28/02/2018,A,Málaga CF,1:0 (1:0),3
+43,Primera División 2017/2018,03/03/2018,H,Athletic Bilbao,2:0 (2:0),3
+44,Primera División 2017/2018,10/03/2018,H,Valencia CF,0:2 (0:1),0
+45,Primera División 2017/2018,18/03/2018,A,CD Leganés,1:2 (0:1),0
+46,Primera División 2017/2018,31/03/2018,H,FC Barcelona,2:2 (1:0),1
+47,Primera División 2017/2018,07/04/2018,A,Celta Vigo,0:4 (0:1),0
+48,Primera División 2017/2018,14/04/2018,H,Villarreal CF,2:2 (0:1),1
+49,Primera División 2017/2018,17/04/2018,A,Deportivo La Coruña,0:0 (0:0),1
+50,Primera División 2017/2018,27/04/2018,A,Levante UD,1:2 (1:1),0
+51,Primera División 2017/2018,04/05/2018,H,Real Sociedad,1:0 (0:0),3
+52,Primera División 2017/2018,09/05/2018,H,Real Madrid,3:2 (2:0),3
+53,Primera División 2017/2018,12/05/2018,A,Real Betis,2:2 (0:1),1
+54,Copa del Rey 2017/2018,24/10/2017,A,FC Cartagena,3:0 (2:0),3
+55,Copa del Rey 2017/2018,29/11/2017,H,FC Cartagena,4:0 (3:0),3
+56,Copa del Rey 2017/2018,03/01/2018,A,Cádiz CF,2:0 (2:0),3
+57,Copa del Rey 2017/2018,11/01/2018,H,Cádiz CF,2:1 (1:0),3
+58,Copa del Rey 2017/2018,17/01/2018,A,Atlético Madrid,2:1 (0:0),3
+59,Copa del Rey 2017/2018,23/01/2018,H,Atlético Madrid,3:1 (1:1),3
+60,Copa del Rey 2017/2018,31/01/2018,A,CD Leganés,1:1 (1:0),1
+61,Copa del Rey 2017/2018,07/02/2018,H,CD Leganés,2:0 (1:0),3
+62,Copa del Rey 2017/2018,21/04/2018,N,FC Barcelona,0:5 (0:3),0

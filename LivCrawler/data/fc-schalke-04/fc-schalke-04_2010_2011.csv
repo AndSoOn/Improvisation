@@ -1,0 +1,54 @@
+,match_type,date,home,away,score,points
+0,Champions League 2010/2011,14/09/2010,A,Olympique Lyon,0:1 (0:1),0
+1,Champions League 2010/2011,29/09/2010,H,SL Benfica,2:0 (0:0),3
+2,Champions League 2010/2011,20/10/2010,H,Hapoel Tel Aviv,3:1 (1:0),3
+3,Champions League 2010/2011,02/11/2010,A,Hapoel Tel Aviv,0:0 (0:0),1
+4,Champions League 2010/2011,24/11/2010,H,Olympique Lyon,3:0 (2:0),3
+5,Champions League 2010/2011,07/12/2010,A,SL Benfica,2:1 (1:0),3
+6,Champions League 2010/2011,15/02/2011,A,Valencia CF,1:1 (0:1),1
+7,Champions League 2010/2011,09/03/2011,H,Valencia CF,3:1 (1:1),3
+8,Champions League 2010/2011,05/04/2011,A,Inter,5:2 (2:2),3
+9,Champions League 2010/2011,13/04/2011,H,Inter,2:1 (1:0),3
+10,Champions League 2010/2011,26/04/2011,H,Manchester United,0:2 (0:0),0
+11,Champions League 2010/2011,04/05/2011,A,Manchester United,1:4 (1:2),0
+12,Bundesliga 2010/2011,21/08/2010,A,Hamburger SV,1:2 (0:0),0
+13,Bundesliga 2010/2011,28/08/2010,H,Hannover 96,1:2 (0:1),0
+14,Bundesliga 2010/2011,10/09/2010,A,1899 Hoffenheim,0:2 (0:1),0
+15,Bundesliga 2010/2011,19/09/2010,H,Borussia Dortmund,1:3 (0:1),0
+16,Bundesliga 2010/2011,22/09/2010,A,SC Freiburg,2:1 (1:0),3
+17,Bundesliga 2010/2011,25/09/2010,H,Bor. Mönchengladbach,2:2 (0:2),1
+18,Bundesliga 2010/2011,02/10/2010,A,1. FC Nürnberg,1:2 (0:0),0
+19,Bundesliga 2010/2011,16/10/2010,H,VfB Stuttgart,2:2 (1:1),1
+20,Bundesliga 2010/2011,23/10/2010,A,Eintracht Frankfurt,0:0 (0:0),1
+21,Bundesliga 2010/2011,30/10/2010,H,Bayer Leverkusen,0:1 (0:0),0
+22,Bundesliga 2010/2011,05/11/2010,H,FC St. Pauli,3:0 (1:0),3
+23,Bundesliga 2010/2011,13/11/2010,A,VfL Wolfsburg,2:2 (1:2),1
+24,Bundesliga 2010/2011,20/11/2010,H,Werder Bremen,4:0 (2:0),3
+25,Bundesliga 2010/2011,27/11/2010,A,1. FC Kaiserslautern,0:5 (0:2),0
+26,Bundesliga 2010/2011,04/12/2010,H,Bayern München,2:0 (0:0),3
+27,Bundesliga 2010/2011,12/12/2010,A,1. FSV Mainz 05,1:0 (1:0),3
+28,Bundesliga 2010/2011,18/12/2010,H,1. FC Köln,3:0 (1:0),3
+29,Bundesliga 2010/2011,15/01/2011,H,Hamburger SV,0:1 (0:0),0
+30,Bundesliga 2010/2011,22/01/2011,A,Hannover 96,1:0 (1:0),3
+31,Bundesliga 2010/2011,29/01/2011,H,1899 Hoffenheim,0:1 (0:1),0
+32,Bundesliga 2010/2011,04/02/2011,A,Borussia Dortmund,0:0 (0:0),1
+33,Bundesliga 2010/2011,12/02/2011,H,SC Freiburg,1:0 (0:0),3
+34,Bundesliga 2010/2011,20/02/2011,A,Bor. Mönchengladbach,1:2 (1:2),0
+35,Bundesliga 2010/2011,26/02/2011,H,1. FC Nürnberg,1:1 (0:1),1
+36,Bundesliga 2010/2011,05/03/2011,A,VfB Stuttgart,0:1 (0:1),0
+37,Bundesliga 2010/2011,12/03/2011,H,Eintracht Frankfurt,2:1 (1:0),3
+38,Bundesliga 2010/2011,20/03/2011,A,Bayer Leverkusen,0:2 (0:2),0
+39,Bundesliga 2010/2011,01/04/2011,A,FC St. Pauli,2:0 (1:0),3
+40,Bundesliga 2010/2011,09/04/2011,H,VfL Wolfsburg,1:0 (0:0),3
+41,Bundesliga 2010/2011,16/04/2011,A,Werder Bremen,1:1 (0:0),1
+42,Bundesliga 2010/2011,23/04/2011,H,1. FC Kaiserslautern,0:1 (0:1),0
+43,Bundesliga 2010/2011,30/04/2011,A,Bayern München,1:4 (1:3),0
+44,Bundesliga 2010/2011,07/05/2011,H,1. FSV Mainz 05,1:3 (0:0),0
+45,Bundesliga 2010/2011,14/05/2011,A,1. FC Köln,1:2 (0:1),0
+46,DFB-Pokal 2010/2011,16/08/2010,A,VfR Aalen,2:1 (1:0),3
+47,DFB-Pokal 2010/2011,26/10/2010,A,FSV Frankfurt,1:0 (1:0),3
+48,DFB-Pokal 2010/2011,21/12/2010,A,FC Augsburg,1:0 (0:0),3
+49,DFB-Pokal 2010/2011,25/01/2011,H,1. FC Nürnberg,"3:2 (1:2, 2:2) aet",3
+50,DFB-Pokal 2010/2011,02/03/2011,A,Bayern München,1:0 (1:0),3
+51,DFB-Pokal 2010/2011,21/05/2011,N,MSV Duisburg,5:0 (3:0),3
+52,Supercup 2010,07/08/2010,N,Bayern München,0:2 (0:0),0

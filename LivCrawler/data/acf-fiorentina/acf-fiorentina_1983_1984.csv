@@ -1,0 +1,31 @@
+,match_type,date,home,away,score,points
+0,Serie A 1983/1984,11/09/1983,H,SSC Napoli,5:1 (2:0),3
+1,Serie A 1983/1984,17/09/1983,A,Torino FC,0:1 (0:1),0
+2,Serie A 1983/1984,24/09/1983,H,Ascoli Calcio,2:1 (1:0),3
+3,Serie A 1983/1984,02/10/1983,A,Sampdoria,2:1 (1:1),3
+4,Serie A 1983/1984,09/10/1983,H,Udinese Calcio,0:0 (0:0),1
+5,Serie A 1983/1984,23/10/1983,H,Pisa SC,0:0 (0:0),1
+6,Serie A 1983/1984,29/10/1983,A,Hellas Verona,1:3 (1:2),0
+7,Serie A 1983/1984,05/11/1983,H,Calcio Catania,5:0 (2:0),3
+8,Serie A 1983/1984,19/11/1983,A,AC Milan,2:2 (1:1),1
+9,Serie A 1983/1984,26/11/1983,H,Juventus,3:3 (1:2),1
+10,Serie A 1983/1984,03/12/1983,A,Lazio Roma,2:1 (0:1),3
+11,Serie A 1983/1984,10/12/1983,A,Inter,1:2 (1:2),0
+12,Serie A 1983/1984,17/12/1983,H,AS Roma,0:0 (0:0),1
+13,Serie A 1983/1984,30/12/1983,A,Genoa CFC,2:2 (0:0),1
+14,Serie A 1983/1984,07/01/1984,H,US Avellino,1:0 (1:0),3
+15,Serie A 1983/1984,14/01/1984,A,SSC Napoli,0:0 (0:0),1
+16,Serie A 1983/1984,21/01/1984,H,Torino FC,4:1 (2:1),3
+17,Serie A 1983/1984,28/01/1984,A,Ascoli Calcio,2:1 (1:1),3
+18,Serie A 1983/1984,11/02/1984,H,Sampdoria,3:0 (1:0),3
+19,Serie A 1983/1984,18/02/1984,A,Udinese Calcio,1:3 (1:1),0
+20,Serie A 1983/1984,25/02/1984,A,Pisa SC,1:1 (0:1),1
+21,Serie A 1983/1984,10/03/1984,H,Hellas Verona,2:0 (2:0),3
+22,Serie A 1983/1984,17/03/1984,A,Calcio Catania,2:0 (0:0),3
+23,Serie A 1983/1984,24/03/1984,H,AC Milan,2:2 (1:0),1
+24,Serie A 1983/1984,31/03/1984,A,Juventus,0:1 (0:0),0
+25,Serie A 1983/1984,07/04/1984,H,Lazio Roma,3:2 (2:1),3
+26,Serie A 1983/1984,20/04/1984,H,Inter,1:1 (0:1),1
+27,Serie A 1983/1984,27/04/1984,A,AS Roma,1:2 (0:2),0
+28,Serie A 1983/1984,05/05/1984,H,Genoa CFC,0:0 (0:0),1
+29,Serie A 1983/1984,12/05/1984,A,US Avellino,0:0 (0:0),1
